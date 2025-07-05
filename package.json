@@ -1,0 +1,21 @@
+{
+  "name": "nihon-no-kokuban",
+  "displayName": "Nihon no Kokuban",
+  "description": "A theme inspired by traditional Japanese chalkboards",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nihon no Kokuban",
+        "uiTheme": "vs-dark",
+        "path": "./themes/YutanPoe-color-theme.json"
+      }
+    ]
+  }
+}
